@@ -6,7 +6,7 @@ import FlutterMacOS
 import Foundation
 
 import path_provider_foundation
-import sqflite
+import sqflite_darwin
 import webview_flutter_wkwebview
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
